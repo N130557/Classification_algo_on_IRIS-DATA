@@ -19,12 +19,12 @@ sklearn: 0.19.1
 
 
 OUTPUT:
-LR: 0.941667 (0.038188) 
-LDA: 0.975000 (0.038188) 
-KNN: 0.958333 (0.055902) 
-CART: 0.933333 (0.050000) 
-NB: 0.966667 (0.055277) 
-SVM: 0.966667 (0.055277)
+<br>LR: 0.941667 (0.038188) </br>
+<br>LDA: 0.975000 (0.038188) </br>
+<br>KNN: 0.958333 (0.055902) </br>
+<br>CART: 0.933333 (0.050000) </br>
+<br>NB: 0.966667 (0.055277) </br>
+<br>SVM: 0.966667 (0.055277)</br>
 
 
 So,finallly i found out that Linear-Discriminat Analysis is the Good Classifier for the IRIS-DATA-SET.Itgiven Accuracy rate 97 %(percentage).
