@@ -9,7 +9,7 @@ This is my first Classification project in Machine Learning.Here i have applied 
 <br>numpy: 1.14.0</br>
 <br>matplotlib: 2.1.2</br>
 <br>pandas:0.22.0</br>
-<br>sklearn: 0.19.1</br>
+<br>sklearn: 0.19.1</br></br></br></br></br>
 
 
 
