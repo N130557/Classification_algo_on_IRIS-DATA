@@ -18,7 +18,7 @@ This is my first Classification project in Machine Learning.Here i have applied 
 
 
 
-OUTPUT:
+<br>OUTPUT:></br>
 <br>LR: 0.941667 (0.038188) </br>
 <br>LDA: 0.975000 (0.038188) </br>
 <br>KNN: 0.958333 (0.055902) </br>
